@@ -1,0 +1,5 @@
+technologies used in ecommerce site
+
+jquery ui
+pagedlist
+dropzone
